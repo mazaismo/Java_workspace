@@ -45,7 +45,7 @@ public class Task02 {
 		
 
 			if (date <= month[month1 - 1]) {
-				System.out.println("ievaditais datums ir " + date + "." + monthName[month1 - 1] + " 2018");
+				System.out.println("ievaditais datums ir " + date + "." + monthName[month1 - 1] + " 2018. gads");
 			} else {
 				System.out.println("ievaditais datums ir nepareizs!!!");
 				
