@@ -20,7 +20,7 @@ public class Task01 {
 		System.out.println("Ievadiet kâdu vârdu un uzvârdu vienâ rindâ ar atstarpi: ");
 		nameSurnameInput = input.nextLine();
 
-		System.clearProperty(null);
+		
 		// 2) Sadala vârdu un uzvârdu divos mainîgajos.
 
 		int nameLengt = nameSurnameInput.lastIndexOf(' ');
