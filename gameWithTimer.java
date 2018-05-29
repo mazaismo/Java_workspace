@@ -13,7 +13,7 @@ public class gameWithTimer {
 		Random rand = new Random();
 
 		int c = 10;
-
+// sakums ir
 		for (int i = 0; i < 10; i++) {
 
 			int a = rand.nextInt(c);
@@ -86,8 +86,12 @@ public class gameWithTimer {
 				break;
 
 			}
-
+			
+		
 		}
+		
+		System.out.println("Paldies par speli");
+		input.close();
 
 	}
 
