@@ -10,7 +10,7 @@ public class RectangleMain {
 		rectangle3.Area(5, 6);
 		rectangle3.Perimeter(5, 6);
 		rectangle3.toString();
-		//rectangle1.IsSquare(lenght, height);
+		
 		
 		
 	}

@@ -6,8 +6,8 @@ public class Rectangle {
 	
 	public Rectangle (int lenght, int height) {
 	
-		this.lenght = lenght = 5;
-		this.height = height = 8;
+		this.lenght = lenght;
+		this.height = height;
 		
 		
 		
@@ -36,7 +36,7 @@ public class Rectangle {
 	
 	public void Perimeter(int a, int b) {
 		int c = (a + b) * 2;
-		System.out.println("figûras perimetrs i: " + c);
+		System.out.println("figûras perimetrs ir: " + c);
 	}
 
 	@Override
